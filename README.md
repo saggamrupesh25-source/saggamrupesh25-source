@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there, I'm Rupesh 👋
 
-<!--
-**saggamrupesh25-source/saggamrupesh25-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student | 💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm passionate about coding, problem-solving,
+and building useful software projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.Tech Computer Science Engineering student
+- 💻 Currently focusing on Java and Data Structures & Algorithms
+- 🌐 Learning Web Development
+- 🤖 Interested in AI and software development
+- 🧠 I enjoy solving programming problems and learning new technologies
+- 🚀 Always working on improving my skills through projects and practice
+
+## 🛠️ Skills
+
+- Java
+- Data Structures & Algorithms
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+## 📚 Currently Learning
+
+- Advanced DSA
+- Java
+- JavaScript
+- Web Development
+- Software Development
+
+## 🚀 Projects
+
+### 🛰️ NASA Space Biology AI Research Assistant
+An AI-powered research assistant designed to help researchers
+find and understand information related to space biology.
+
+### 💻 Java & DSA Practice
+A collection of my Java programs and Data Structures & Algorithms
+practice as I continue improving my problem-solving skills.
+
+## 🎯 My Goal
+
+To become a strong software developer by continuously learning,
+building projects, and solving real-world problems.
+
+---
+
+⭐ Thanks for visiting my profile!
+
